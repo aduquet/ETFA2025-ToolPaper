@@ -1,0 +1,40 @@
+[tool.poetry]
+name = "analyzer"
+version = "0.1.0"
+description = "Tool to support analysis of controler software simulation runs."
+authors = ["Aleja <alejandra.duque-torres@scch.at>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.7"
+pandas = "^2.2.2"
+panel = "^1.4.4"
+click = "^8.1.7"
+altair = "^5.4.1"
+hvplot = "^0.10.0"
+matplotlib = "^3.9.2"
+numpy = "^2.1.1"
+plotly = "^5.24.1"
+scipy = "^1.14.1"
+watchfiles = "^0.24.0"
+boke = "^0.0.1"
+holoviews = "^1.19.1"
+fastparquet = "^2024.5.0"
+scikit-learn = "^1.5.2"
+fastdtw = "^0.3.4"
+dtaidistance = "^2.3.12"
+firebase-admin = "^6.6.0"
+setuptools = "^75.3.0"
+grpcio = "^1.67.1"
+python-dotenv = "^1.0.1"
+
+[tool.poetry.group.dev.dependencies]
+autopep8 = "^2.3.1"
+pylint = "^3.2.6"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+app_fb = "app_fb:main"

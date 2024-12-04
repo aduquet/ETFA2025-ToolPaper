@@ -116,9 +116,6 @@ This project is proprietary due to its association with a confidential industria
 
 ---
 
-Let me know if you'd like to modify any section further!
-
-
 ## Firebase Credentials
 
 This application uses Firebase for authentication. To set up credentials:

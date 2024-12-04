@@ -304,12 +304,12 @@ def main(dfx):
     
 if __name__ == '__main__':
 
-    data = dbInit()
+    df_data = dbInit()
     # with open('prueba.json', 'r') as file:
-        # data = json.load(file)
+    #     data = json.load(file)
 
-    df_data = pd.DataFrame.from_dict(data, orient= 'index')
-    df_data = df_data.reset_index().rename(columns={"index": "test_id"})
+    # df_data = pd.DataFrame.from_dict(data, orient= 'index')
+    # df_data = df_data.reset_index().rename(columns={"index": "test_id"})
 
     for index, row in df_data.iterrows():
         tc_id = get_test_case_id(row['test_id'])

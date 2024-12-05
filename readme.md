@@ -101,12 +101,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to the industrial partners for providing insights and support for the dataset and simulation scenarios.
 ```
 
----
-
-### Key Updates:
-1. **Structured Setup Instructions**: Clear steps for installing dependencies, setting up the environment, and running the application.
-2. **Docker Details**: Explicit commands for Docker image creation and execution.
-3. **Organized Project Features and Structure**: A breakdown of what the project offers and its file hierarchy.
-4. **Professional Tone**: Readable and formal language suitable for professional documentation.
-
-Let me know if you’d like to refine any part further!

@@ -1,6 +1,6 @@
 # From Testing to Insights: A Tool for Automating the Ranking and Analysis of PID Simulation Test Runs
 
-This repository contains tools and data related for the paper ''From Testing to Insights: A Tool for Automating the Ranking and Analysis of PID Simulation Test Runs''. The project focuses on exploring simulation scenarios across various machine configurations, providing insights into parameter tuning, system behavior, and performance evaluation.
+ The project focuses on exploring simulation scenarios across various machine configurations, providing insights into parameter tuning, system behavior, and performance evaluation.
 
 ---
 # Screencast

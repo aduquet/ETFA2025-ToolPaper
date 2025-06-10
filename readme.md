@@ -27,8 +27,8 @@ ___
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/aduquet/ICST2025-ToolPaper.git
-cd ICST2025-ToolPaper
+git clone https://github.com/aduquet/ETFA2025-ToolPaper.git
+cd ETFA2025-ToolPaper
 ```
 
 ### 2. Install Dependencies

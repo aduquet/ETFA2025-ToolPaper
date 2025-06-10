@@ -1,7 +1,7 @@
-# ICST2025-ToolPaper
+# WiP-ETFA2025-ToolPaper
 
 
-This project provides a set of Python scripts and tools for analyzing and ranking the performance of PID controllers based on simulated data. The tool enables parameter exploration and performance evaluation across multiple machine configurations, such as systems with and without a brake assistant.
+This project provides a set of Python scripts and tools for analyzing and ranking the performance of PID controllers based on simulated data. The tool enables parameter exploration and performance evaluation across multiple machine configurations.
 
 ## Features
 

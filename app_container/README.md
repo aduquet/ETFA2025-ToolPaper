@@ -1,7 +1,9 @@
 # WiP-ETFA2025-ToolPaper
-
-
 This project provides a set of Python scripts and tools for analyzing and ranking the performance of PID controllers based on simulated data. The tool enables parameter exploration and performance evaluation across multiple machine configurations.
+
+## 📌 Important!
+The dataset is available upon request. Please contact alejandra.duque-torres@scch.at to receive the Firebase credentials and gain access.
+
 
 ## Features
 
